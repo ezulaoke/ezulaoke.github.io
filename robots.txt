@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ezulaoke.github.io/sitemap_index.ezulaoke
